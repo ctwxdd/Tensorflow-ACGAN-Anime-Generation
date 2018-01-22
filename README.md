@@ -18,13 +18,13 @@ https://drive.google.com/open?id=1bXXeEzARYWsvUwbW3SA0meulCR3nIhDb
 
 ## Network Structure
 
-<img src="img/network.png">
+<img src="./img/network.png">
 
 
 ## Results:
 
 
-<img src="img/img.png">
+<img src="./img/img.png">
 
 ## Ref:
 
