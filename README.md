@@ -16,6 +16,9 @@ Please download the training data from:
 
 https://drive.google.com/open?id=1bXXeEzARYWsvUwbW3SA0meulCR3nIhDb
 
+Pretrained model is available at:
+https://drive.google.com/file/d/1gzJ1_OxGloWSYtGndZYT42SmRfA6HFAN/view?usp=sharing
+
 ## Network Structure
 
 <img src="./img/network.PNG">
